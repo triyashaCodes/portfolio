@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Triyasha_profile.jpeg"
   name             : "Triyasha"
   pronouns         : "she/her"  
-  bio              : "Experienced Backend Developer, interested in making scalable AI systems!"
+  bio              : "Scalable AI"
   location         : "New York"
   employer         : "Columbia University"
   uri              : # URL
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "triyashaCodes"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/triyasha-gd/"
+  linkedin         : "triyasha-gd"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -84,7 +84,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  "Triyasha_profile.jpeg"
+teaser                   : #"Triyasha_profile.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -219,9 +219,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 

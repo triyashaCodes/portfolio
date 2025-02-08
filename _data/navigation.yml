@@ -6,10 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    url: https://scholar.google.com/citations?user=FaNgf2YAAAAJ&hl=en
 
   - title: "Teaching"
     url: /teaching/    
@@ -21,7 +18,5 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/Triyasha_Ghosh_D.pdf
+
