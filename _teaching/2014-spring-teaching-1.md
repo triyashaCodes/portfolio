@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Computer Systems for Data Science"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Columbia University, Data Science"
-date: 2024-01-01
+date: 2025-01-01
 location: "New York, USA"
 ---
 
