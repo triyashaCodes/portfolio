@@ -3,18 +3,12 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Columbia University, Data Science"
+date: 2024-01-01
+location: "New York, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Assisting in teaching and guiding students on big data systems, distributed computing, and large-scale machine learning frameworks.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Technical Skills
+- Big Query, SQL

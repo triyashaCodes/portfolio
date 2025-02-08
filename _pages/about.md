@@ -9,7 +9,7 @@ redirect_from:
 
 👋🏼 Hello there, I’m Triyasha!
 
-🚀 I’m a graduate student at Columbia University pursuing an M.S. in Computer Science, specializing in Machine Learning.
+🚀 I’m a graduate student at Columbia University pursuing an M.S. in Computer Science, specializing in Machine Learning. I am actively seeking internships in MLE and SWE for summer 2025. Happy to connect, if you have any roles open! 
 
 🔬 My interests lie in AI, Machine Learning, and Cloud Computing, with a focus on Natural Language Processing (NLP) and Computer Vision (CV).
 
@@ -17,7 +17,7 @@ redirect_from:
 
 💡 I enjoy following recent advancements in LLMs, and I am passionate about leveraging AI to solve real-world challenges.
 
-Selected Experience
+Experience
 ======
 ## 🤖 Nutanix MTS2
 
